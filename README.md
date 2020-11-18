@@ -14,7 +14,7 @@ and ther response will be :
     "full_name": "ahmad",
     "token": "eyJ0eXAiOiJqd3QiLC........."
 }
-## for do request use token in body 
+## for requests use token in body 
 "Authorization" : "Token : eyJzdWIiOiJhaG1hZEBn.........."
 
 
