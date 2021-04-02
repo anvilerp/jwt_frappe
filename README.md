@@ -15,7 +15,7 @@ and ther response will be :
     "token": "eyJ0eXAiOiJqd3QiLC........."
 }
 ## for requests use token in Header 
-"Authorization" : "Token : eyJzdWIiOiJhaG1hZEBn.........."
+"Authorization" : "Bearer M72UK1a1SEiY1MUJ.........."
 
 
 #### License
